@@ -1,5 +1,4 @@
 - 👋 Hi, I am Maher Alheijile, a computer science student at Taibah university in Al-Medina, Saudi Arabia.
-- I am an app and software enignner.
 - I inspire to specialize in Machine Learning and Artificial Intelligence.
 - I’m currently learning web development and database design.
 - contact me thorugh my offcial email: Maher.alheijile@gmail.com.
